@@ -39,8 +39,12 @@
     text-align: center;
 }
 
+.product-tab a {
+    text-decoration: none;
+}
+
 .product-tab:hover {
-    height: 550px;
+    height: 650px;
 }
 
 .product-titles {
